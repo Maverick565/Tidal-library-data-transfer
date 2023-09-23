@@ -30,9 +30,6 @@ https://www.paypal.com/donate/?hosted_button_id=7CUBRK3ZGKY6A
 * os
 
 
-## Deployment
-
-To deploy this project run
 
 ```bash
   npm run deploy
