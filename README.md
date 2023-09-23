@@ -28,10 +28,3 @@ https://www.paypal.com/donate/?hosted_button_id=7CUBRK3ZGKY6A
 * tqdm
 * requests
 * os
-
-
-
-```bash
-  npm run deploy
-```
-
